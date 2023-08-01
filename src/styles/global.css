@@ -1,0 +1,12 @@
+* {
+  paddigin: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(255,70,185,1) 100%);
+  font-family: Outfit;
+}
